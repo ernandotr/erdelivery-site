@@ -6,7 +6,7 @@ import { ReactComponent as InstagramIcon } from './instagram.svg'
 function Footer(){
     return (
         <footer className="main-footer">
-            App desenvolvido por Ernando Rezende
+            App desenvolvido por <b>Ernando Rezende</b> 
             <div className="footer-icons">
                 <a href="https://www.youtube.com" target="_new">
                     <YouTubeIcon/>
