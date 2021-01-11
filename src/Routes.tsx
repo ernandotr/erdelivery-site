@@ -2,6 +2,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Orders from "./Oders";
 import Home from "./Home";
 import Navbar from "./Navbar";
+import React from "react";
 
 function Routes() {
     return (

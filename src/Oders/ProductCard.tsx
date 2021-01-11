@@ -1,4 +1,5 @@
 import { type } from "os";
+import React from "react";
 import { Product } from "./types";
 
 type Props = {
